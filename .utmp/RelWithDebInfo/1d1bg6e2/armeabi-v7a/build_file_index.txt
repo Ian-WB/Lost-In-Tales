@@ -1,0 +1,2 @@
+E:\Work\UnityProjects\Lost-in-Tales\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\Work\UnityProjects\Lost-in-Tales\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
