@@ -36,12 +36,14 @@ Tip: screen-record on an Android device or in the Unity editor with the Simulato
 
 ## My contributions (Gameplay / Engineering)
 
+The core gameplay mechanics below were built together with Guilherme Oliveira ([@megatruckp](https://github.com/megatruckp)):
+
 - **Tap-to-move player controller** — raycast-based touch input, grid-aligned movement and rotation, with animation hooks
 - **Sokoban block mechanics** — block selection, push/pull handling, and interaction rules between movable and pushable pieces
 - **Climbing interaction** — contextual climb button and layered (multi-height) movement
 - **Cage/objective logic** and camera axis locking
 
-The level design, art, remaining puzzle mechanics (beanstalk, collectible pages, shop), audio, and UI were built by my teammates — see [Team](#team).
+The level design, art, remaining puzzle mechanics (beanstalk, collectible pages, shop), audio, and UI were built by the rest of the team — see [Team](#team).
 
 ---
 
