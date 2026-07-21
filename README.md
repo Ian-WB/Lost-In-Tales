@@ -2,9 +2,9 @@
 
 > A cozy 3D puzzle game set inside classic fairy tales — tap to guide the hero through storybook scenes, pushing blocks sokoban-style, climbing, and setting caged friends free.
 
-**Engine:** Unity 6 (6000.3.15f1) · Universal Render Pipeline
-**Platform:** Android (touch controls)
-**Context:** Team project for Axis (Eixo) 2 of the Digital Games program at PUC Minas
+**Engine:** Unity 6 (6000.3.15f1) · Universal Render Pipeline  
+**Platform:** Android (touch controls)  
+**Context:** Team project for Axis (Eixo) 2 of the Digital Games program at PUC Minas  
 **Original team repository:** [SauloSouza27/Lost-in-Tales](https://github.com/SauloSouza27/Lost-in-Tales)
 
 > **Note on repo history:** this repository is a portfolio snapshot of our academic team project. It preserves the full commit history, so every teammate's authorship is intact. The **My contributions** section below describes my direct work only.
