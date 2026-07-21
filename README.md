@@ -13,7 +13,7 @@
 
 ## About the game
 
-*Lost in Tales* drops the player into scenes inspired by classic fairy tales — including a certain beanstalk. Each level is a self-contained diorama puzzle: move your character by tapping the world, push and pull blocks into place, climb ledges, and reach the goal to complete the tale.
+*Lost in Tales* drops the player into scenes inspired by classic fairy tales — including a certain beanstalk. Across **three levels**, each one a self-contained diorama puzzle, you move your character by tapping the world, push and pull blocks into place, climb ledges, and reach the goal to complete the tale.
 
 - **Tap-to-move** navigation designed for touch screens
 - **Sokoban-style block puzzles** — select a block, then push or pull it along the grid
@@ -48,7 +48,7 @@ The level design, art, remaining puzzle mechanics (beanstalk, collectible pages,
 
 1. Clone the repository
 2. Open the project with **Unity 6000.3.15f1** (or a newer Unity 6 release) with Android Build Support installed
-3. Open the scene in `Assets/Scenes`, press Play in the editor (use the Simulator view for touch), or **Build and Run** on an Android device
+3. Open `Assets/_Lost in Tales/_Levels/MainMenu.unity`, press Play in the editor (use the Simulator view for touch), or **Build and Run** on an Android device
 
 ---
 
@@ -57,6 +57,10 @@ The level design, art, remaining puzzle mechanics (beanstalk, collectible pages,
 Academic team project — Digital Games, PUC Minas:
 
 - Saulo Souza — [@SauloSouza27](https://github.com/SauloSouza27)
+- Maria Fernanda — Game Artist — [ArtStation](https://www.artstation.com/fernanda828)
+- Paulo Antônio
+- Guilherme Oliveira
+- Lucca Oliveira
 - Fabrício Frade — [@FFrade22](https://github.com/FFrade22)
 - Ian Barbosa — [@Ian-WB](https://github.com/Ian-WB)
 
