@@ -4,6 +4,7 @@
 
 **Engine:** Unity 6 (6000.3.15f1) · Universal Render Pipeline  
 **Platform:** Android (touch controls)  
+**Play it:** [download the APK from Releases](https://github.com/Ian-WB/Lost-In-Tales/releases/latest)  
 **Context:** Team project for Axis (Eixo) 2 of the Digital Games program at PUC Minas  
 **Original team repository:** [SauloSouza27/Lost-in-Tales](https://github.com/SauloSouza27/Lost-in-Tales)
 
@@ -46,6 +47,10 @@ The level design, art, remaining puzzle mechanics (beanstalk, collectible pages,
 
 ## How to run
 
+**Easiest:** grab the APK from [Releases](https://github.com/Ian-WB/Lost-In-Tales/releases/latest) and install it on an Android device.
+
+To run from source:
+
 1. Clone the repository
 2. Open the project with **Unity 6000.3.15f1** (or a newer Unity 6 release) with Android Build Support installed
 3. Open `Assets/_Lost in Tales/_Levels/MainMenu.unity`, press Play in the editor (use the Simulator view for touch), or **Build and Run** on an Android device
@@ -57,14 +62,12 @@ The level design, art, remaining puzzle mechanics (beanstalk, collectible pages,
 Academic team project — Digital Games, PUC Minas:
 
 - Saulo Souza — [@SauloSouza27](https://github.com/SauloSouza27)
-- Maria Fernanda — Game Artist — [ArtStation](https://www.artstation.com/fernanda828)
-- Paulo Antônio
-- Guilherme Oliveira
+- Maria Fernanda Silva — [ArtStation](https://www.artstation.com/fernanda828)
+- Paulo Antônio — [@Tiofly](https://github.com/Tiofly)
+- Guilherme Oliveira — [@megatruckp](https://github.com/megatruckp)
 - Lucca Oliveira
 - Fabrício Frade — [@FFrade22](https://github.com/FFrade22)
 - Ian Barbosa — [@Ian-WB](https://github.com/Ian-WB)
-
-*(Additional GitHub contributor accounts: @megatruckp, @Tiofly.)*
 
 ---
 
